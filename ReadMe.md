@@ -13,8 +13,6 @@
 
 ### Vue Cli
 
-> https://cli.vuejs.org/
-
 > npm install -g @vue/cli
 
 > vue create new-app
