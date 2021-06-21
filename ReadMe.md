@@ -40,6 +40,13 @@
 > https://cli.vuejs.org/
 
 
+# GitHub
+
+```
+https://github.com/primarypartition/app2120.git
+```
+
+
 ## .gitignore
 
 ```
