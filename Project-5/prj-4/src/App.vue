@@ -1,7 +1,7 @@
 <template>
   <the-header title="RememberMe"></the-header>
   <stored-resources :resources="storedResources"></stored-resources>
-</template>å
+</template>
 
 <script>
 import StoredResources from './components/learning-resources/StoredResources.vue';
