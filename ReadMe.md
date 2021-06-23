@@ -78,3 +78,10 @@ pnpm-debug.log*
 ## VS Code
 
 > vetur extension
+
+
+## npm Packages
+
+> npm i vue-router --save
+
+> npm i axios --save
