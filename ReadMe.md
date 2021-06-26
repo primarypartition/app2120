@@ -85,3 +85,5 @@ pnpm-debug.log*
 > npm i vue-router --save
 
 > npm i axios --save
+
+> npm i vuex --save
