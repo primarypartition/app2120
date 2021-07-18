@@ -1,15 +1,12 @@
 # VueJS
 
-
 ## Development Environment
-
 
 ### NodeJs and npm
 
 > npm -v
 
 > node -v
-
 
 ### Vue Cli
 
@@ -21,13 +18,11 @@
 
 > npm install
 
-
 ## Commands
 
 > npm install
 
 > npm update
-
 
 ## Links
 
@@ -39,13 +34,11 @@
 
 > https://cli.vuejs.org/
 
-
 # GitHub
 
 ```
 https://github.com/primarypartition/app2120.git
 ```
-
 
 ## .gitignore
 
@@ -74,11 +67,9 @@ pnpm-debug.log*
 *.sw?
 ```
 
-
 ## VS Code
 
 > vetur extension
-
 
 ## npm Packages
 
@@ -87,3 +78,17 @@ pnpm-debug.log*
 > npm i axios --save
 
 > npm i vuex --save
+
+## Deploymeny on Firebase
+
+```
+Firebase
+Hosting
+```
+
+```
+npm install -g firebase-tools
+firebase login
+firebase init
+firebase deploy
+```
