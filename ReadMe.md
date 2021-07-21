@@ -92,3 +92,13 @@ firebase login
 firebase init
 firebase deploy
 ```
+
+## Vue 2 to Vue 3
+
+```
+https://github.com/vuejs/vue-next/releases/tag/v3.0.0
+https://github.com/academind/vue-3-update/tree/starting-state
+https://github.com/academind/vue-3-update/tree/vue3-update
+https://github.com/academind/vue-3-update/tree/starting-state/composition-api
+https://github.com/academind/vue-3-update/tree/vue3-update/composition-api
+```
